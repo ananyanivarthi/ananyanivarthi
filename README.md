@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **ananyanivarthi@gmail.com**
 
+💡 Skills & Tech Stack
+Languages: Python, SQL, JavaScript, Java, Git
+AI & ML: TensorFlow, Keras, PyTorch, Scikit-Learn, NLP, LSTM
+MLOps & Cloud: Docker, AWS, DVC, MLflow, GitHub Actions
+Full-Stack Development: Flask, FastAPI, React, Node.js, MongoDB
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ananya_nivarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananya_nivarthi" height="30" width="40" /></a>
